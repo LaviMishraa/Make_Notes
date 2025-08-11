@@ -8,4 +8,4 @@
 
 
 ```md
-!App Demo-->(assets/light-mode.png)
+!App Demo-->(https://make-notes-zeta.vercel.app/)
